@@ -2,9 +2,8 @@
 
 modula's utilities; various utility functions i use in my projects.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/defaultxr/mutility.git   |
-| commit  | 9a2c889  |
-| systems | mutility |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/defaultxr/mutility.git |
+| commit  | 920a317
+| systems | mutility                                      |
+|---------+-----------------------------------------------|
