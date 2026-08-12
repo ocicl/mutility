@@ -4,7 +4,7 @@ modula's utilities; various utility functions i use in my projects.
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/defaultxr/mutility.git |
-| commit  | 2752944                                       |
+| commit  | 912670d                                       |
 | systems | mutility                                      |
 |---------+-----------------------------------------------|
  
